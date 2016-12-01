@@ -1,4 +1,4 @@
-# codeigniter_chatbox
+# codeigniter_chatbox  [![Build Status](https://travis-ci.org/saikatharryc/codeigniter_chatbox.svg?branch=master)](https://travis-ci.org/saikatharryc/codeigniter_chatbox)
 codeigniter simple chat system with mysql support where name can be addeed no session/login ,registration system.
 No CSS,
 No styling,
