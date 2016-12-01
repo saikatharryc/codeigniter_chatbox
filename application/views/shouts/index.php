@@ -8,8 +8,7 @@ echo validation_errors('<p class="error">', '</p>');
 if ($shouts) {
   echo '<ul>';
   foreach ($shouts as $shout) {
-    $gravatar = 'http://www.gravatar.com/avatar.php?gravatar_id=' . md5(strtolower($shout->name)) . '&size=70';
-    ?>
+   
  
     <li>
       <div class="meta">
