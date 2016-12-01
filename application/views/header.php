@@ -12,7 +12,7 @@
  
   <h1>Shoutbox</h1>
   <h5>
-    <a href="http://www.saikat.cf" title="saikat chakrabortty">saikat chakrabortty </a> : www.github.com/saikatharryc
+    <a href="http://www.saikat.cf" title="saikat chakrabortty">saikat chakrabortty </a> : www.saikat.cf
     
   </h5>
  
