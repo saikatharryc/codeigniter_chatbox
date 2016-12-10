@@ -11,3 +11,6 @@
 #####2>now set the database credentials to `application/config/database.php` and   `application/config/config.php` here set the base url.
 #####3>import   `database.sql` to desired database.
 #####4>now you are good to go.
+###if you are running in localhost make sure you changed the base path at `application/config/config.php` also change the database host at 
+`application/config/database.php` to `localhost` .
+and make sure you imported you database and give the credentials to `database.php` .
