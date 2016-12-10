@@ -75,8 +75,8 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
+	'hostname' => 'mysql3.gear.host',
+	'username' => 'chat2',
 	'password' => 'Saikat@95',
 	'database' => 'chat2',
 	'dbdriver' => 'mysqli',
